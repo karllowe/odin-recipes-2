@@ -1,0 +1,24 @@
+body {
+    padding:24px;
+    font-family: open-sans, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    background-color: lightgray;
+    padding: 12px 24px;
+    border-radius: 12px;
+}
+
+ul {
+    border: 1px solid lightgray;
+    padding: 24px
+}
+
+li {
+    margin: 12px 0;
+}
+
+img {
+    border-radius: 12px;
+}
